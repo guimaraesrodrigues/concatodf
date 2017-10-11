@@ -5,13 +5,14 @@
 *.log
 
 # Netbeans Files
-
 nbproject/private/
+nbproject/
 build/
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+build.xml
 
 # Package Files #
 concatodf.jar
