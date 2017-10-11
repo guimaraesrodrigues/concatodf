@@ -1,0 +1,23 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Netbeans Files
+
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Package Files #
+concatodf.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.odt
